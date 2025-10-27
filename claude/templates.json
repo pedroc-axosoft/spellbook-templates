@@ -1,0 +1,48 @@
+[
+  {
+    "name": "code_reviewer_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/code_reviewer.md",
+    "version": 0
+  },
+  {
+    "name": "code_refactoring_specialist_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/code_refactoring_specialist.md",
+    "version": 0
+  },
+  {
+    "name": "documentation_generator_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/documentation_generator.md",
+    "version": 0
+  },
+  {
+    "name": "test_generator_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/test_generator.md",
+    "version": 0
+  },
+  {
+    "name": "commit_buddy_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/commit_buddy.md",
+    "version": 0
+
+  }
+]
