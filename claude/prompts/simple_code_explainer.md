@@ -1,1 +1,1 @@
-Explain this code
+Please analyze the code changes in the current Git branch compared to 'main'. Explain the purpose of these changes, focusing on the core logic and impact on the overall system. Provide your explanation in a clear, top-down summary, followed by a list of key files and what each file change achieves.
