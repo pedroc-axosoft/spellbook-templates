@@ -44,5 +44,14 @@
     "path": "agents/commit_buddy.md",
     "version": 0
 
+  },
+  {
+    "name": "code_explainer",
+    "type": "prompt",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch", "repo" ],
+    "path": "prompts/code_explainer.md",
+    "version": 0
   }
 ]
