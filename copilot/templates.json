@@ -14,7 +14,7 @@
     "interactive": false,
     "args": [],
     "appliesTo": [ "branch", "repo" ],
-    "path": "prompts/code_explainer.md",
+    "path": "prompts/simple_code_explainer.md",
     "version": 0
   }
 ]
