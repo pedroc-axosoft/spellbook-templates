@@ -1,0 +1,11 @@
+[
+  {
+    "name": "code_refactoring_specialist_agent",
+    "type": "agent",
+    "interactive": false,
+    "args": [],
+    "appliesTo": [ "branch" ],
+    "path": "agents/code-refactoring-specialist.md",
+    "version": 0
+  }
+]
